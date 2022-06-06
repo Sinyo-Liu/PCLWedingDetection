@@ -1,4 +1,5 @@
-# PCLWeldingDetection![](./pic/laser.ico)
+# PCLWeldingDetection
+![](./pic/laser.ico)
 2022毕业设计-点云焊接轨迹检测平台
 
 #### 介绍
@@ -39,11 +40,6 @@ Windows10
 4.  Shift + 鼠标左键：平移点云
 5.  鼠标滚轮/右键：拉近/放远点云
         
-        
-        
-        
-
-
 #### 点云颜色、大小更改组件
 
 1.  选中数据树中点云，并保持显示模式(非灰色)
