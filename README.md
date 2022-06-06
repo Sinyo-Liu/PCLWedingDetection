@@ -1,4 +1,4 @@
-# PCLWeldingDetection
+# PCLWeldingDetection![](./pic/logo.png)
 2022毕业设计-点云焊接轨迹检测平台
 
 #### 介绍
