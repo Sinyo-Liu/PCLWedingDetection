@@ -1,5 +1,5 @@
-# ![](./pic/laser.ico){width:100px;}  PCLWeldingDetection
-<img src="./pic/laser.ico" width="150" height="150"
+# <img src="./pic/laser.ico" width="35" height= "35">  PCLWeldingDetection
+
 
 2022毕业设计-点云焊接轨迹检测平台
 
