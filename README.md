@@ -1,5 +1,10 @@
-# PCLWeldingDetection   ![box](./pic/laser.ico)
-
+# PCLWeldingDetection   
+![box](./pic/laser.ico)
+<style>
+    img[alt="box"]{
+        width:150px;
+    }
+</style>
 2022毕业设计-点云焊接轨迹检测平台
 
 
@@ -49,8 +54,4 @@ Windows10
 2.  向左或向右移动滑条，至所需颜色或尺寸值
 注意：改变下一个点云前滑条位置保持不变
 
-<style>
-    img[alt="box"]{
-        width:150px;
-    }
-</style>
+
