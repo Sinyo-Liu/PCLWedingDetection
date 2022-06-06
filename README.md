@@ -1,6 +1,8 @@
 # PCLWeldingDetection
-![](./pic/laser.ico)
 2022毕业设计-点云焊接轨迹检测平台
+
+#![](./pic/laser.ico)
+
 
 #### 介绍
 点云焊接轨迹检测及可视化平台-帮助文档
